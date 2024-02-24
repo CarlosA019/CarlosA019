@@ -34,4 +34,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+
+  <img src="https://camo.githubusercontent.com/253f4842177fe68f329fc1713537477b92aca3f29edf52b1dbced68ae3262eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" alt="Additional Image" width="40" height="40"/>
 </p>
