@@ -32,7 +32,7 @@
   </a>
 
  <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" width="40" height="40"/>
+    <img src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" width="35" height="35"/>
   </a>
 </p>
 
