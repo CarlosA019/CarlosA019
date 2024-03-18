@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Alcala</h1>
 <h3 align="center">A passionate programmer who loves ice cream</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **iOS Dev**
 
 - 📫 How to reach me: **cmalcala5487@gmail.com**
 
@@ -33,6 +33,10 @@
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+ <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" width="40" height="40"/>
   </a>
 </p>
 
