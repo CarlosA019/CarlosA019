@@ -83,4 +83,4 @@
 </p>
 
 ## Watch my contribution graph get eaten by a snake 🐍
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/CarlosA019/CarlosA019/blob/output/github-contribution-grid-snake.gif)
