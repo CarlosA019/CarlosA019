@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/carlos-alcala-15b308296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Alcala" height="30" width="40" /></a>
 <a href="https://instagram.com/cmalcala5487/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cmalcala5487" height="30" width="40" /></a>
+<h3 align="center">Check the links for my youtube channel!👀 </h3>
 </p>
 
 
