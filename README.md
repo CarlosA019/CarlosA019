@@ -1,4 +1,4 @@
-![Profile Picture](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)
+![Profile Picture](https://res.cloudinary.com/da8klfars/image/upload/v1729563952/image_qo7q7u.png)
 
 <h1 align="center">Hi 👋, I'm Carlos Alcala</h1>
 <h3 align="center">A passionate programmer who loves ice cream</h3>
@@ -39,5 +39,7 @@
 </p>
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/253f4842177fe68f329fc1713537477b92aca3f29edf52b1dbced68ae3262eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365" alt="Firebase" width="130" height="45"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-standard.svg" alt="Firebase" width="130" height="45"/>
+  </a>
 </p>
