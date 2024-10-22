@@ -36,6 +36,9 @@
  <a href="https://racket-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://racket-lang.org/img/racket-logo.svg" alt="Racket" width="35" height="35"/>
   </a>
+ <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left">
