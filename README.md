@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Alcala</h1>
 <h3 align="center">A passionate programmer who loves ice cream</h3>
 
-- 🌱 I’m currently learning **Reeinforced learning**
+- 🌱 I’m currently working on **Reeinforced learning**
 
 - 📫 How to reach me: **cmalcala5487@gmail.com**
 
